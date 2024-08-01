@@ -105,10 +105,9 @@ The script outputs the metadata to a CSV file named `url_metadata.csv`. The CSV 
 To run the script, simply execute it in your Python environment:
 
 ```bash
-python script_name.py
+python3 findImage.py
 ```
 
-Replace `script_name.py` with the name of your script file.
 
 ## Notes
 
